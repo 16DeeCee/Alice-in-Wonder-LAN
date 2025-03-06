@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+
+# SQL databases
+*.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
